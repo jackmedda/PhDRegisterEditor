@@ -1,0 +1,36 @@
+{
+  "2021-2022": {
+    "OTTOBRE": {
+      "default": [
+        ["ANALISI LETTERATURA", "10:00", "17:00"],
+        ["IMPLEMENTAZIONE MODELLI", "14:00", "20:00"],
+        ["TEST CODICE", "09:00", "15:00"]
+      ],
+      "1-10": ["MISSIONE AUCKLAND", "10:00", "17:00"],
+      "22": ["PRESENTAZIONE ORIENTAMENTO", "09:00", "15:00"]
+    },
+    "NOVEMBRE": {
+
+    },
+    "FEBBRAIO": {
+      "30": ["NO ERROR BUT IT WILL NOT BE ADDED", "09:00", "15:00"]
+    }
+  },
+  "2022-2023": {
+    "OTTOBRE": {
+      "default": [
+        ["ANALISI LETTERATURA", "10:00", "17:00"],
+        ["IMPLEMENTAZIONE MODELLI", "14:00", "20:00"],
+        ["TEST CODICE", "09:00", "15:00"]
+      ],
+      "1-10": ["MISSIONE AUCKLAND", "10:00", "17:00"],
+      "22": ["PRESENTAZIONE ORIENTAMENTO", "09:00", "15:00"]
+    },
+    "NOVEMBRE": {
+
+    },
+    "FEBBRAIO": {
+      "30": ["NO ERROR BUT IT WILL NOT BE ADDED", "09:00", "15:00"]
+    }
+  }
+}
